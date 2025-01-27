@@ -4,7 +4,7 @@ function Info() {
     return (
         <div className="header">
             <div className="header-left">
-                JEE/NEET EXAMINATION
+                Practise Karlo
             </div>
             <div className="header-right">
                 <div className="info">
@@ -14,7 +14,7 @@ function Info() {
                     </div>
                     <div className="information">
                         <div className="name">Candidate Name : Divyank Kushwaha</div>
-                        <div className="roll-no">Roll Number : 2022041023</div>
+                        <div className="roll-no">Roll Number : XXXXXXX023</div>
                         <div className="system">System Number : 039</div>
                     </div>
                 </div>
